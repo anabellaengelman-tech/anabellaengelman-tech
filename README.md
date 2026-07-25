@@ -53,7 +53,7 @@ Capítulo de libro
 Gudiño, M. E. (coord.) (2015). Territorio y Economía Plural: Una Aproximación al Desarrollo. Editorial FFyL-UNCuyo. ISBN 978-950-774-269-9.
 
 
-Lista completa en ORCID 0000-0002-0718-2762 
+Lista completa en ORCID [0000-0002-0718-2762 ](https://orcid.org/my-orcid?orcid=0000-0002-0718-2762) 
 
 🛠️ Herramientas
 
