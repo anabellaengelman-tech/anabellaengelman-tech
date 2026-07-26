@@ -20,7 +20,6 @@ Dataluta Argentina — Banco de datos de conflictos agrarios en Mendoza.
 Transboundary Water Security in the Southern Andes — Investigación sobre seguridad hídrica en la Cordillera de los Andes (IWSN).
 
 
-(Cada proyecto va a tener su propio repositorio con mapas, scripts y una descripción más detallada.)
 
 📚 Publicaciones
 
